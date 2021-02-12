@@ -1,3 +1,11 @@
+# Quick note:
+
+This is only the front-end repo for the WhatsApp MERN clone. It will not work without the server repo located here:
+
+https://github.com/aalanamiranda/whatsapp-mern-server
+
+The MongoDB cluster allows access from any IP address.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
